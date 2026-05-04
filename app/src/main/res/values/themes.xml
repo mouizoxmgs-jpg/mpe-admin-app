@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.MPEAdmin" parent="android:Theme.Black.NoTitleBar">
+    <style name="Theme.MPEAdmin" parent="android:Theme.DeviceDefault.NoActionBar">
         <item name="android:statusBarColor">#0A0A0A</item>
         <item name="android:navigationBarColor">#1A1A1A</item>
         <item name="android:windowBackground">#0A0A0A</item>
