@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43021512026",
+    "project_id": "marrakech-premium-experi-b3042",
+    "storage_bucket": "marrakech-premium-experi-b3042.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43021512026:android:8d473633a499c67f2dd763",
+        "android_client_info": {
+          "package_name": "com.mpe.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5fwU54I-At1riwihv2dRTbOPzaV0Wk2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
